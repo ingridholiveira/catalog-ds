@@ -1,9 +1,11 @@
 import './assets/styles/custom.scss';
 import './App.css';
 
-function App() {
+const App = () => {
   return (
+    <>
     <h1>Olá DS-catalog!</h1>
+    </>
   );
 }
 
