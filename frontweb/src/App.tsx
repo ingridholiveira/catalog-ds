@@ -6,7 +6,7 @@ const App = () => {
   return (
     <>
       <Navbar />
-      <h1>Olá DS-catalog!</h1>
+      <h1>Olá DScatalog!</h1>
     </>
   );
 };
